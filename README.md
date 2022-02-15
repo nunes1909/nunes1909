@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nunes1909/">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nunes1909&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunes1909&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nunes1909&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunes1909&layout=compact&langs_count=7&theme=dark"/>
     
   ![Snake animation](https://github.com/nunes1909/nunes1909/blob/output/github-contribution-grid-snake.svg)
 </div>
