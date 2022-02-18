@@ -1,4 +1,4 @@
-<div align="center"><h1>E aew! Sou o Gabriel e sou estudante de programação! 🤙👩🏻‍💻📱</h1></div>
+<div align="center"><h1>E aew! Sou o Gabriel Nunes! 🤙👩🏻‍💻📱</h1></div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nunes1909/">
