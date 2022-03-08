@@ -1,4 +1,4 @@
-## Sou o Gabriel Nunes! 👩🏻‍💻📱 
+## Sou o Gabriel Nunes! 👩🏻‍💻📱 ![](https://komarev.com/ghpvc/?username=nunes1909&color=blue&style=flat)
 
 <div align="">
   <a href="https://www.linkedin.com/in/nunes1909/">
