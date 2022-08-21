@@ -10,17 +10,23 @@
 
   
 ## Principais conhecimentos: 🤓💭
-<div align="">
+<div align="">  
   <div>
-    <img align="center" height="30" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Kotlin-8a2be2?&style=for-the-badge&logo=kotlin&logoColor=white">
     <img align="center" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   </div><br>
   
+  <div>
+    <img align="center" height="30" src="https://img.shields.io/badge/Kotlin%20Spring%20Boot-993399?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Api%20Rest-60270c?style=for-the-badge&logo=db&logoColor=white">
+  </div><br>
+  
   <div style="display: inline_block">
-    <img align="center" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Oracle-ab212e?style=for-the-badge&logo=oracle&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">    
   </div>
   
   <div style="display: inline_block"><br>
