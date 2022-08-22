@@ -12,27 +12,27 @@
 ## Principais conhecimentos: 🤓💭
 <div align="">  
   <div>
-    <img align="center" height="30" src="https://img.shields.io/badge/Kotlin-8a2be2?&style=for-the-badge&logo=kotlin&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Kotlin-8a2be2?&style=flat&logo=kotlin&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=CoffeeScript&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Flutter-00B9F0?style=flat&logo=flutter&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Dart-013264?style=flat&logo=dart&logoColor=white">
   </div><br>
   
   <div>
-    <img align="center" height="30" src="https://img.shields.io/badge/Kotlin%20Spring%20Boot-993399?style=for-the-badge&logo=spring&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/Api%20Rest-60270c?style=for-the-badge&logo=db&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Kotlin%20Spring%20Boot-993399?style=flat&logo=spring&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Go-0078D6?style=flat&logo=GoLand&logoColor=white">
   </div><br>
   
   <div style="display: inline_block">
-    <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/Oracle-ab212e?style=for-the-badge&logo=oracle&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">    
+    <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Oracle-ab212e?style=flat&logo=oracle&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white">    
   </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" height="30" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
+    <img align="center" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   </div>
 </div>
 
@@ -40,6 +40,6 @@
 ## Meio de contato: 📧📞
 <div align="">
  <a href="https://www.linkedin.com/in/nunes1909/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
