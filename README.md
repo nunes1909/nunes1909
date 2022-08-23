@@ -39,7 +39,7 @@
   
 ## Meio de contato: 📧📞
 <div align="">
- <a href="https://www.linkedin.com/in/nunes1909/" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
+ <a href="https://github.com/nunes1909/nunes1909/wiki/Contato" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Meios de contato-181717?style=flat&logo=GitHub&logoColor=white" target="_blank">
   </a>
 </div>
