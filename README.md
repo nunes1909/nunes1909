@@ -37,9 +37,9 @@
 </div>
 
   
-## Meio de contato: 📧📞
+## Meios de contato: 📧📞
 <div align="">
  <a href="https://github.com/nunes1909/nunes1909/wiki/Contato" target="_blank">
-    <img height="30" src="https://img.shields.io/badge/Meios de contato-181717?style=flat&logo=GitHub&logoColor=white" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Contatos-181717?style=flat&logo=GitHub&logoColor=white" target="_blank">
   </a>
 </div>
