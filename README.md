@@ -15,7 +15,7 @@
   </a>
 </div>
 
-## Minhas formações:
+## Minhas formações: 📚🎓
 <div align="">
  <a href="https://github.com/nunes1909/nunes1909/wiki/Forma%C3%A7%C3%B5es-e-certificados" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Formações-181717?style=flat&logo=GitHub&logoColor=white" target="_blank">
