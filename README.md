@@ -6,14 +6,21 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunes1909&layout=compact&langs_count=7&theme=aura"/>
     
 <!--   ![Snake animation](https://github.com/nunes1909/nunes1909/blob/output/github-contribution-grid-snake.svg) -->
-</div><br>
+</div>
 
 ## Um pouco sobre mim: 😊🤘🏻
 <div align="">
  <a href="https://github.com/nunes1909/nunes1909/wiki/Sobre-mim" target="_blank">
     <img height="30" src="https://img.shields.io/badge/Sobre mim-181717?style=flat&logo=GitHub&logoColor=white" target="_blank">
   </a>
-</div><br>
+</div>
+
+## Minhas formações:
+<div align="">
+ <a href="https://github.com/nunes1909/nunes1909/wiki/Forma%C3%A7%C3%B5es-e-certificados" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/Formações-181717?style=flat&logo=GitHub&logoColor=white" target="_blank">
+  </a>
+</div>
 
 ## Principais conhecimentos: 🤓💭
 <div align="">  
