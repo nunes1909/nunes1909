@@ -20,8 +20,9 @@
 <div>
   <img align="center" height="30" src="https://img.shields.io/badge/Kotlin%20Spring%20Boot-993399?style=flat&logo=spring&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Go-0078D6?style=flat&logo=GoLand&logoColor=white">
-</div><br>
+</div>
 
+<!--
 <div style="display: inline_block">
   <img align="center" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Oracle-ab212e?style=flat&logo=oracle&logoColor=white">
@@ -32,7 +33,8 @@
   <img align="center" height="30" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
-</div>
+</div> 
+-->
 </div><br>
 
 ## Um pouco sobre mim: 😊🤘🏻
@@ -48,9 +50,6 @@
   <img height="30" src="https://img.shields.io/badge/Formações-181717?style=flat&logo=GitHub&logoColor=white" target="_blank">
 </a>
 </div>
-
-
-
 
 ## Meios de contato: 📧📞
 <div align="">
