@@ -8,7 +8,7 @@
 <!--   ![Snake animation](https://github.com/nunes1909/nunes1909/blob/output/github-contribution-grid-snake.svg) -->
 </div> 
 
-## Principais conhecimentos: 🤓💭
+## Meus conhecimentos: 🤓💭
 <div align="">  
 <div>
   <img align="center" height="30" src="https://img.shields.io/badge/Kotlin-8a2be2?&style=flat&logo=kotlin&logoColor=white">
