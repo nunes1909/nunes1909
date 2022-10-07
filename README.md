@@ -11,6 +11,7 @@
 ## Meus conhecimentos: 🤓💭
 <div align="">  
 <div>
+  <img align="center" height="30" src="https://img.shields.io/badge/Android-3DDC84?&style=flat&logo=Android&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Kotlin-8a2be2?&style=flat&logo=kotlin&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=CoffeeScript&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Flutter-00B9F0?style=flat&logo=flutter&logoColor=white">
