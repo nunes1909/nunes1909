@@ -17,7 +17,8 @@
   <img align="center" height="30" src="https://img.shields.io/badge/Flutter-00B9F0?style=flat&logo=flutter&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Dart-013264?style=flat&logo=dart&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Kotlin%20Spring%20Boot-993399?style=flat&logo=spring&logoColor=white">
-  <img align="center" height="30" src="https://img.shields.io/badge/Go-0078D6?style=flat&logo=GoLand&logoColor=white">
+  <img align="center" height="30" src="https://img.shields.io/badge/Go-0078D6?style=flat&logo=GoLand&logoColor=white">  
+  <img align="center" height="30" src="https://img.shields.io/badge/Git-F03C2E?style=flat&logo=Git&logoColor=white">
 </div>
 <!-- 
 <br>
