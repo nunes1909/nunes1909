@@ -15,12 +15,16 @@
   <img align="center" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=CoffeeScript&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Flutter-00B9F0?style=flat&logo=flutter&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Dart-013264?style=flat&logo=dart&logoColor=white">
-</div><br>
-
+  <img align="center" height="30" src="https://img.shields.io/badge/Kotlin%20Spring%20Boot-993399?style=flat&logo=spring&logoColor=white">
+  <img align="center" height="30" src="https://img.shields.io/badge/Go-0078D6?style=flat&logo=GoLand&logoColor=white">
+</div>
+<!-- 
+<br>
 <div>
   <img align="center" height="30" src="https://img.shields.io/badge/Kotlin%20Spring%20Boot-993399?style=flat&logo=spring&logoColor=white">
   <img align="center" height="30" src="https://img.shields.io/badge/Go-0078D6?style=flat&logo=GoLand&logoColor=white">
 </div>
+-->
 
 <!--
 <div style="display: inline_block">
