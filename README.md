@@ -8,7 +8,7 @@
 <!--   ![Snake animation](https://github.com/nunes1909/nunes1909/blob/output/github-contribution-grid-snake.svg) -->
 </div> 
 
-## Meus conhecimentos: 🤓💭
+## Principais conhecimentos: 🤓💭
 <div align="">  
 <div>
   <img align="center" height="30" src="https://img.shields.io/badge/Android-3DDC84?&style=flat&logo=Android&logoColor=white">
