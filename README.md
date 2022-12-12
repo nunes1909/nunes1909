@@ -1,12 +1,12 @@
-## Sou o Gabriel Nunes! 👩🏻‍💻📱
+<h3 align="center">Welcome to my Github. I'm Gabriel Nunes from Porto Alegre/RS, currently working as Android Developer.</h3>
 
-<div align="">
-<a href="https://www.linkedin.com/in/nunes1909/">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=nunes1909&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunes1909&layout=compact&langs_count=3&theme=aura"/>
-
+<a href="https://github.com/nunes1909?tab=repositories">
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=nunes1909&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide=contribs&custom_title=%20My%20GitHub%20Stats&line_height=30&border_radius=12" />
+</a>
+<a href="https://github.com/nunes1909?tab=repositories">
+    <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunes1909&layout=compact&langs_count=3&theme=aura&layout=compact&border_radius=8" />
+</a>
 <!--   ![Snake animation](https://github.com/nunes1909/nunes1909/blob/output/github-contribution-grid-snake.svg) -->
-</div> 
 
 ## Principais conhecimentos: 🤓💭
 <div align="">  
