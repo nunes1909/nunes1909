@@ -17,7 +17,7 @@ I'm a Mobile Developer looking for skills and technical training in Native Andro
   - Dart;
   - Go.
 
-<br><br>
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/nunes1909/">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=nunes1909&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
