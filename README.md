@@ -30,7 +30,7 @@ I'm a Mobile Developer looking for skills and technical training in Native Andro
 	
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nunes1909&theme=modern-lilac&custom_title=Gabriel+Nunes+Contribution+Graph)](https://github.com/nunes1909?tab=repositories) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&height=130&section=footer&color=0:000000,100:15082D"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&height=130&section=footer&color=0:000000,100:15082D&text=Check+my+repositories!&fontSize=14&animation=fadeIn&fontColor=c2c2c2&fontAlignY=80&stroke=000000&strokeWidth=0.5"/>
 
 <br>
 <p align="center"><b>Visitors Count</b></p>
