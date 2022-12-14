@@ -17,7 +17,6 @@ I'm a Mobile Developer looking for skills and technical training in Native Andro
   - Dart;
   - Go.
 
-<br>
 <!--
 <div align="center">
   <a href="https://www.linkedin.com/in/nunes1909/">
@@ -29,9 +28,8 @@ I'm a Mobile Developer looking for skills and technical training in Native Andro
 <!--   ![Snake animation](https://github.com/nunes1909/nunes1909/blob/output/github-contribution-grid-snake.svg) -->
 </div> 
 	
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nunes1909&theme=modern-lilac&custom_title=Gabriel+Nunes+Contribution+Graph)](https://github.com/nunes1909?tab=repositories)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nunes1909&theme=modern-lilac&custom_title=Gabriel+Nunes+Contribution+Graph)](https://github.com/nunes1909?tab=repositories) -->
 
-<br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=Waving&height=130&section=footer&color=0:000000,100:15082D"/>
 
 <br>
