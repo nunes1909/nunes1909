@@ -2,7 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Encode+Sans&weight=600&size=18&duration=6000&pause=1000&color=1D0B3EFF&center=true&vCenter=true&width=1000&height=200&lines=Welcome+to+my+GitHub!;I'm+Gabriel+from+Porto+Alegre%2FRS!;Currently+working+as+Android+Developer!)](https://git.io/typing-svg) -->
 
-I'm a Mobile Developer looking for skills and technical training in Native Android Development, SOLID principles and Clean Architecture and MVVM standards.
+I'm a Mobile Developer looking for skills and technical in Native Android Development, SOLID principles and Clean Architecture and MVVM standards.
 
 👽 About me:
 - 📱 I’m currently working as Android Developer.
