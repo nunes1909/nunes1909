@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&height=130&section=header&color=0:000000,100:15082D&text=Welcome+to+my+GitHub!+I'm+Gabriel+Nunes+from+Porto+Alegre/RS&fontSize=14&animation=fadeIn&fontColor=c2c2c2&fontAlignY=35&stroke=000000&strokeWidth=0.5"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=Waving&height=130&section=header&color=0:000000,100:15082D&text=Welcome+to+my+GitHub!+I'm+Gabriel+Nunes+from+Porto+Alegre/RS&fontSize=14&animation=fadeIn&fontColor=c2c2c2&fontAlignY=30&stroke=000000&strokeWidth=0.5"/>
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Encode+Sans&weight=600&size=18&duration=6000&pause=1000&color=1D0B3EFF&center=true&vCenter=true&width=1000&height=200&lines=Welcome+to+my+GitHub!;I'm+Gabriel+from+Porto+Alegre%2FRS!;Currently+working+as+Android+Developer!)](https://git.io/typing-svg) -->
 
