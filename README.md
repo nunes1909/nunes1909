@@ -9,11 +9,14 @@ I am constantly looking to update myself on the latest technologies and am curre
 👽 About me:
 - 📱 I’m currently working as Android Developer.
 - 💡 My main interests are:
-  - Native Android;
-  - Native IOS;
+  - Native Android.
+  - Kotlin Multiplatform Mobile.
+  - Flutter.
+  - Native IOS.
 - 👨🏻‍💻 My main languages are:
-  - Kotlin;
-  - Java;
+  - Kotlin.
+  - Java.
+  - Dart.
 
 <!--
 <div align="center">
