@@ -13,12 +13,9 @@ I am constantly looking to update myself on the latest technologies and am curre
 - 💡 My main interests are:
   - Native Android.
   - Kotlin Multiplatform Mobile.
-  - Flutter.
   - Native IOS.
 - 👨🏻‍💻 My main languages are:
   - Kotlin.
-  - Java.
-  - Dart.
 
 <!--
 <div align="center">
